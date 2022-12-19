@@ -1,0 +1,9 @@
+{
+    "name": "Iván Cobos Marchal",
+    "description": "To Do List",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "npx json-server --watch ./db/db.json --port 4000"
+    }
+}
